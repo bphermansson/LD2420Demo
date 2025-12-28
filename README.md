@@ -1,4 +1,7 @@
 This code are based on Esp.idf Matter libraries Sensors examples, whos Readme follows below. The aim of this project is to build a Matter-compatible precense detector. Matter-compatible makes it possible to add the sensor in Google Home and other such systems.
+
+For now the Matter code is not implemented, it just shows precense at the serial monitor.
+
 The radar device used is a LD2420, the CPU an Esp32S3, but others can be used-
 I code in VSCode with the ESP-IDF extension. 
 ESP-IDF v 5.4.1 and Matter 1.4.
